@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=650&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+;Gustavo+Henrique+%7C+20+anos+%F0%9F%90%AC;Estudante+de+Engenharia+de+Software" alt="Typing SVG">
-
-<br>
-
-<a href="https://github.com/Devgusta-py/Devgusta-py">
-  <img src="https://img.shields.io/badge/Visite%20meu%20perfil-00AEEF?style=for-the-badge&logo=github&logoColor=white" alt="Visitar perfil do GitHub">
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=650&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+;Gustavo+Henrique+%7C+20+anos+%F0%9F%90%AC;Estudante+de+Engenharia+de+Software" alt="Typing SVG">
+  </a>
 
 </div>
 
@@ -20,13 +16,19 @@
 
 🐍 Python &nbsp;•&nbsp; ☕ Java &nbsp;•&nbsp; 🗄️ SQL &nbsp;•&nbsp; 📱 Flutter
 
+<br>
+
+<a href="https://github.com/Devgusta-py/Devgusta-py">
+  <img src="https://img.shields.io/badge/Visite%20meu%20perfil-00AEEF?style=for-the-badge&logo=github&logoColor=white" alt="Visitar meu perfil no GitHub">
+</a>
+
 </div>
 
 #
 
 <img align="right" alt="Cyberpunk" height="190px" src="./src/edgerunners.gif">
 
-## 👋 Sobre mim
+<h3 align="left">👋 Sobre mim</h3>
 
 Me chamo **Gustavo Henrique**, tenho **20 anos** e sou estudante de **Engenharia de Software**.
 
@@ -40,93 +42,106 @@ Gosto de aprender através da prática, criar projetos e transformar novos conhe
 
 #
 
-## 🧰 Minha Stack
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="Python">
-      <br>
-      <b>Python</b>
-    </td>
-
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" alt="Java">
-      <br>
-      <b>Java</b>
-    </td>
-
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" alt="SQL">
-      <br>
-      <b>SQL</b>
-    </td>
-
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="50" alt="Flutter">
-      <br>
-      <b>Flutter</b>
-    </td>
-
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" alt="Git">
-      <br>
-      <b>Git</b>
-    </td>
-
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" alt="GitHub">
-      <br>
-      <b>GitHub</b>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-#
-
-## 🚀 Em foco
-
-<div align="center">
-
-| Tecnologia | Objetivo |
-|:---:|:---|
-| 🐍 **Python** | Desenvolvimento e prática de programação |
-| ☕ **Java** | Programação Orientada a Objetos |
-| 🗄️ **SQL** | Banco de dados e consultas |
-| 📱 **Flutter** | Desenvolvimento de aplicações |
-| 🐙 **Git & GitHub** | Versionamento e projetos |
-
-</div>
-
-#
-
-## 📊 GitHub Stats
-
-<div align="center">
+<h3 align="left">My Stack ~</h3>
 
 <img 
-    height="180"
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=Devgusta-py&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00AEEF&text_color=FFFFFF&icon_color=00AEEF&locale=pt-br&custom_title=Estatísticas+do+GitHub"
-    alt="Estatísticas do GitHub"
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-&nbsp;&nbsp;
 
 <img 
-    height="180"
-    src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=Devgusta-py&layout=compact&hide_border=true&bg_color=0D1117&title_color=00AEEF&text_color=FFFFFF&locale=pt-br&custom_title=Principais+Linguagens"
-    alt="Principais linguagens"
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Flutter" 
+    title="Flutter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img
+    align="left"
+    alt="GitHub"
+    title="GitHub"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+
+<br/>
+<br/>
+
+#
+
+<h3 align="left">🚀 Em foco</h3>
+
+<div align="left">
+
+🐍 **Python** — Desenvolvimento e prática de programação  
+☕ **Java** — Programação Orientada a Objetos  
+🗄️ **SQL** — Banco de dados e consultas  
+📱 **Flutter** — Desenvolvimento de aplicações multiplataforma  
+🐙 **Git & GitHub** — Versionamento e desenvolvimento de projetos
 
 </div>
 
 #
 
-## 📌 Atualmente
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=Devgusta-py&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00AEEF&border_color=00AEEF&ring_color=00AEEF&custom_title=Estatísticas%20do%20GitHub"
+  />
+
+  <img 
+      align="left" 
+      alt="Principais Linguagens" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=Devgusta-py&layout=compact&custom_title=Principais%20Linguagens&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00AEEF&border_color=00AEEF&ring_color=00AEEF" 
+  />
+</p>
+
+<br/>
+<br/>
+
+#
+
+<h3 align="left">📌 Atualmente</h3>
 
 🎓 Estudando **Engenharia de Software**  
 🐍 Aprofundando meus conhecimentos em **Python**  
