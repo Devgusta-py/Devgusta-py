@@ -1,94 +1,290 @@
 <div align="center">
 
-# Gustavo Henrique
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+SEU+NOME!;Software+Engineering+%7C+Technology+%7C+Development;Construindo+ideias%2C+uma+linha+de+c%C3%B3digo+por+vez." alt="Apresentação" />
 
-### Software Engineering student · Developer · Technology enthusiast
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=FFFFFF&center=true&vCenter=true&width=620&lines=Bem-vindo+ao+meu+perfil!;Construindo+projetos+e+aprendendo+todos+os+dias.;Um+commit+de+cada+vez."
-alt="Mensagem animada de apresentação" />
-
-
-<a href="mailto:gustavo.henrique.workdev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="E-mail" />
-</a>
-<a href="https://github.com/dev-gustavo">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a> </div>
-
----
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-## Sobre mim
-
-Tenho 20 anos, sou de São Paulo e atualmente curso **Engenharia de Software na FIAP**.
-
-Gosto de entender como as coisas funcionam — do código ao hardware — e uso este perfil para registrar meus projetos, estudos e experimentos.
-
-Meu foco é evoluir com consistência, escrever código cada vez melhor e transformar ideias em soluções práticas.
-
-</td>
-<td width="40%" align="center" valign="middle"> <img src="./src/edgerunners.gif" width="260" alt="Ilustração cyberpunk" /> </td>
-</tr>
-</table>
-
-## Stack
-
-<div align="center"> <img src="https://skillicons.dev/icons?i=java,cpp,python,typescript,mysql,git,github&theme=dark" alt="Tecnologias: Java, C++, Python, TypeScript, MySQL, Git e GitHub" /> </div>
-
-
-| Área | O que estou desenvolvendo |
-| --- | --- |
-| **Programação** | Lógica, orientação a objetos, estruturas de dados e boas práticas. |
-| **Aplicações** | Projetos acadêmicos, APIs, scripts e protótipos funcionais. |
-| **Dados** | Modelagem relacional, SQL e persistência de informações. |
-| **Tecnologia** | Estudos sobre hardware, ferramentas e arquitetura de software. |
-
-## GitHub em movimento
-
-<div align="center"> <img src="https://raw.githubusercontent.com/dev-gustavo/dev-gustavo/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobrinha percorrendo o histórico de contribuições do GitHub" width="900" />
-
-  
- <img height="165" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=dev-gustavo&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&locale=pt-br&hide=contribs" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=dev-gustavo&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&locale=pt-br&langs_count=6" alt="Linguagens mais utilizadas" /> </div>
-
-## Atualmente
-
-Estou fortalecendo meus fundamentos, desenvolvendo projetos próprios e explorando novas formas de criar software com mais clareza, organização e propósito.
-
-Se quiser acompanhar essa evolução, fique à vontade para explorar meus repositórios ou entrar em contato.
-
-<div align="center">
-
-### Obrigado pela visita.
-
-<sub>Feito por Gustavo Henrique · São Paulo, Brasil</sub>
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=111111&label=PROFILE+VIEWS" alt="Visualizações do perfil" />
 
 </div>
 
 ---
 
-<details>
-<summary>Manutenção do README</summary>
+# 👨‍💻 Sobre mim
 
-O arquivo deve permanecer na raiz do repositório especial `dev-gustavo/dev-gustavo`. A imagem `./src/edgerunners.gif` precisa existir no repositório. A animação da cobrinha depende do arquivo `github-contribution-grid-snake-dark.svg` publicado na branch `output`.
+Olá! Meu nome é **Seu Nome**.
 
-</details> <!--
-Referências dos recursos visuais:
-- https://github.com/DenverCoder1/readme-typing-svg
-- https://github.com/Platane/snk
-- https://github.com/anuraghazra/github-readme-stats
-- https://skillicons.dev
--->  <!-- Fim -->
+Sou estudante e desenvolvedor apaixonado por tecnologia, programação e pela criação de soluções digitais. Gosto de entender como as coisas funcionam, experimentar novas tecnologias e transformar ideias em projetos reais.
 
-## Referências
+Atualmente, meus estudos estão concentrados em:
 
-[1]: https://github.com/DenverCoder1/readme-typing-svg "readme-typing-svg"
+* **Desenvolvimento de software**
+* **Lógica de programação**
+* **Engenharia de software**
+* **Construção de aplicações**
+* **Exploração de novas tecnologias**
 
-[2]: https://github.com/Platane/snk "GitHub contribution snake"
+Este perfil funciona como um espaço para registrar minha evolução, compartilhar projetos e colocar novos conhecimentos em prática.
 
-[3]: https://github.com/anuraghazra/github-readme-stats "GitHub Readme Stats"
+> **Código bem escrito começa com um problema bem compreendido.**
 
-[4]: https://skillicons.dev/ "Skill Icons"
+---
+
+# 🐍 Projeto em destaque
+
+<div align="center">
+
+<img src="./src/snake.gif" width="520" alt="Snake Game" />
+
+<h2>SNAKE GAME</h2>
+
+<p>
+Um pequeno projeto desenvolvido para transformar lógica, programação e criatividade em uma experiência simples e divertida.
+</p>
+
+<a href="SEU_LINK_DO_PROJETO">
+<img src="https://img.shields.io/badge/PLAY%20NOW-FFFFFF?style=for-the-badge&logo=gamepad&logoColor=000000" alt="Jogar agora" />
+</a>
+
+<a href="SEU_LINK_DO_PROJETO">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Código fonte" />
+</a>
+
+</div>
+
+## 🎮 Sobre o projeto
+
+O **Snake Game** é uma releitura do clássico jogo da cobrinha, desenvolvida com foco em lógica de programação, manipulação de elementos na tela e construção de uma experiência simples e responsiva.
+
+<div align="center">
+
+<img src="./src/snake-preview.png" width="700" alt="Preview do Snake Game" />
+
+</div>
+
+### ✨ Funcionalidades
+
+| Recurso                    | Descrição                                 |
+| -------------------------- | ----------------------------------------- |
+| 🎮 **Movimentação**        | Sistema clássico de movimentação da cobra |
+| 🍎 **Pontuação**           | Sistema de pontuação durante a partida    |
+| 🐍 **Crescimento**         | A cobra cresce conforme o jogo avança     |
+| 💥 **Colisões**            | Detecção de colisões                      |
+| 🔄 **Reinício**            | Possibilidade de reiniciar a partida      |
+| 📱 **Interface adaptável** | Interface adaptável a diferentes tamanhos |
+| ⚡ **Gameplay responsivo**  | Experiência simples e responsiva          |
+
+### 🧩 Tecnologias utilizadas
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" title="HTML5" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" title="CSS3" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" title="JavaScript" alt="JavaScript" />
+
+</div>
+
+---
+
+# 🛠️ Minha Stack
+
+Minha stack está organizada por área para facilitar a visualização das tecnologias que fazem parte dos meus estudos e projetos.
+
+## 💻 Linguagens
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" title="Java" alt="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" title="C++" alt="C++" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" title="Python" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" title="JavaScript" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" title="TypeScript" alt="TypeScript" />
+
+</div>
+
+<br>
+
+## 🌐 Web & Banco de Dados
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" title="HTML5" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" title="CSS3" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" title="MySQL" alt="MySQL" />
+
+</div>
+
+<br>
+
+## 🔧 Ferramentas & Versionamento
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" title="Git" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" title="GitHub" alt="GitHub" />
+
+</div>
+
+---
+
+# 📂 Projetos
+
+Uma visão geral dos projetos, estudos e aplicações presentes no perfil.
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🐍 Snake Game
+
+Jogo da cobrinha desenvolvido para praticar lógica, JavaScript e manipulação de elementos na interface.
+
+**Stack:**
+`HTML` · `CSS` · `JavaScript`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Projeto 02
+
+Descrição breve do seu próximo projeto.
+
+**Stack:**
+`Java` · `MySQL`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚙️ Projeto 03
+
+Descrição breve de outro projeto ou estudo.
+
+**Stack:**
+`C++` · `Algoritmos`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Projeto 04
+
+Uma aplicação desenvolvida para resolver um problema específico.
+
+**Stack:**
+`TypeScript` · `API`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&locale=pt-br" alt="Estatísticas do GitHub" />
+
+<img height="180em" src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&locale=pt-br" alt="Principais linguagens" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+
+<source
+ media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg">
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
+
+<img
+ src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg"
+ alt="Snake das contribuições">
+
+</picture>
+
+</div>
+
+---
+
+# 📈 Atualmente
+
+Neste momento, meu foco está dividido entre aprendizado, prática e construção de projetos.
+
+```text
+▰ Estudando desenvolvimento de software
+▰ Construindo projetos pessoais
+▰ Aprofundando fundamentos de programação
+▰ Explorando novas tecnologias
+▰ Transformando estudos em aplicações reais
+```
+
+---
+
+# 🤝 Conecte-se comigo
+
+<div align="center">
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" />
+</a>
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+</a>
+
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
+</a>
+
+</div>
+
+---
+
+# 🚀 Filosofia
+
+<div align="center">
+
+### `while(alive) { build(); learn(); repeat(); }`
+
+<br>
+
+<strong>Obrigado pela visita.</strong>
+
+<br>
+
+<sub>Construindo, aprendendo e evoluindo um commit de cada vez.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>README desenvolvido com Markdown e recursos públicos da comunidade GitHub.</sub>
+
+</div>
