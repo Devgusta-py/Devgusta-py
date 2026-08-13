@@ -2,6 +2,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=650&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+;Gustavo+Henrique+%7C+20+anos+%F0%9F%90%AC;Estudante+de+Engenharia+de+Software" alt="Typing SVG">
 
+<br>
+
+<a href="https://github.com/Devgusta-py/Devgusta-py">
+  <img src="https://img.shields.io/badge/Visite%20meu%20perfil-00AEEF?style=for-the-badge&logo=github&logoColor=white" alt="Visitar perfil do GitHub">
+</a>
+
 </div>
 
 #
@@ -13,12 +19,6 @@
 **Estudante de Engenharia de Software • Desenvolvedor em formação**
 
 🐍 Python &nbsp;•&nbsp; ☕ Java &nbsp;•&nbsp; 🗄️ SQL &nbsp;•&nbsp; 📱 Flutter
-
-<br>
-
-<a href="https://github.com/Devgusta-py/Devgusta-py">
-  <img src="https://img.shields.io/badge/Ver%20meu%20GitHub-00AEEF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
 
 </div>
 
@@ -44,63 +44,45 @@ Gosto de aprender através da prática, criar projetos e transformar novos conhe
 
 <div align="center">
 
-<img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-    width="55px"
-    alt="Python"
-    title="Python"
-/>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="Python">
+      <br>
+      <b>Python</b>
+    </td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" alt="Java">
+      <br>
+      <b>Java</b>
+    </td>
 
-<img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-    width="55px"
-    alt="Java"
-    title="Java"
-/>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" alt="SQL">
+      <br>
+      <b>SQL</b>
+    </td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="50" alt="Flutter">
+      <br>
+      <b>Flutter</b>
+    </td>
 
-<img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-    width="55px"
-    alt="SQL"
-    title="SQL"
-/>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" alt="Git">
+      <br>
+      <b>Git</b>
+    </td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
-    width="55px"
-    alt="Flutter"
-    title="Flutter"
-/>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-    width="55px"
-    alt="Git"
-    title="Git"
-/>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-    width="55px"
-    alt="GitHub"
-    title="GitHub"
-/>
-
-</div>
-
-<div align="center">
-
-**Python** &nbsp;&nbsp;&nbsp; **Java** &nbsp;&nbsp;&nbsp; **SQL** &nbsp;&nbsp;&nbsp; **Flutter** &nbsp;&nbsp;&nbsp; **Git** &nbsp;&nbsp;&nbsp; **GitHub**
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" alt="GitHub">
+      <br>
+      <b>GitHub</b>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -161,8 +143,8 @@ Gosto de aprender através da prática, criar projetos e transformar novos conhe
 
 <br>
 
-<a href="https://github.com/Devgusta-py">
-<img src="https://img.shields.io/badge/Devgusta--py-GitHub-00AEEF?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/Devgusta-py/Devgusta-py">
+  <img src="https://img.shields.io/badge/Devgusta--py-00AEEF?style=for-the-badge&logo=github&logoColor=white" alt="Devgusta-py">
 </a>
 
 </div>
