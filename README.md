@@ -18,7 +18,7 @@
 
 <br>
 
-<a href="https://github.com/Devgusta-py/Devgusta-py">
+<a href="https://github.com/Devgusta-py">
   <img src="https://img.shields.io/badge/Visite%20meu%20perfil-00AEEF?style=for-the-badge&logo=github&logoColor=white" alt="Visitar meu perfil no GitHub">
 </a>
 
@@ -158,7 +158,7 @@ Gosto de aprender através da prática, criar projetos e transformar novos conhe
 
 <br>
 
-<a href="https://github.com/Devgusta-py/Devgusta-py">
+<a href="https://github.com/Devgusta-py">
   <img src="https://img.shields.io/badge/Devgusta--py-00AEEF?style=for-the-badge&logo=github&logoColor=white" alt="Devgusta-py">
 </a>
 
